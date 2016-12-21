@@ -4,7 +4,7 @@ tags:
     - .NET
     - Programming
     - Software Engineering 
-excerpt: "Post about extension methods. example datetime iso8601 weeknumber"
+excerpt: "A post about extension methods and how to create them."
 modified: 2016-12-21T00:00:00-01:00
 ---
 
