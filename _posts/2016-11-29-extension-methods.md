@@ -1,5 +1,6 @@
 ---
 title: "Extension methods in .NET"
+permalink: /blog/extension-methods
 tags:
     - .NET
     - Programming

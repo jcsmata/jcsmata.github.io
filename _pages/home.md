@@ -9,6 +9,13 @@ header:
     overlay_image: /assets/images/header-image.jpg
 excerpt: 'A website dedicated to software engineering and to the interesting things I find noteworthy to share.<br /> <br /> {::nomarkdown}<a class="twitter-follow-button" href="https://twitter.com/joaomata" data-size="large" data-show-screen-name="false" data-show-count="true"></a> 
 <a class="github-button" href="https://github.com/jcsmata" data-style="mega" data-count-href="/jcsmata/followers" data-count-api="/users/jcsmata#followers" data-count-aria-label="# followers on GitHub" aria-label="Follow @jcsmata on GitHub">Follow @jcsmata</a>{:/nomarkdown}'
+feature_row:
+  - image_path: /assets/images/default.png
+    url: /blog/extension-methods
+    title: "Extension Methods in .NET"
+    excerpt: "A post about extension methods and how to create them."
+    btn_label: "Learn more"
+
 ---
 
 <script async defer src="https://buttons.github.io/buttons.js"></script>
@@ -29,4 +36,8 @@ excerpt: 'A website dedicated to software engineering and to the interesting thi
 
   return t;
 }(document, "script", "twitter-wjs"));</script>
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
 
