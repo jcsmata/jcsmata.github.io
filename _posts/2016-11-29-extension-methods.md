@@ -45,9 +45,9 @@ The creation of an Extension Method is quite simple, just follow this steps:
 
 2. Implement the extension method as a `static` method with at least the same visibility as the containing class.
 
-3. The first parameter of the method specifies the type taht the method operates on; it must be preceded with the `this` modifier.
+3. The first parameter of the method specifies the type that the method operates on; it must be preceded with the `this` modifier.
 
-4. In the calling code, add a `using` directive to specift the namespace that contains the extension method class.
+4. In the calling code, add a `using` directive to specify the namespace that contains the extension method class.
 
 5. Call the methods as if they were instance methods on the type.
 
