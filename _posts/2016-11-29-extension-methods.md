@@ -15,7 +15,7 @@ modified: 2016-12-21T00:00:00-01:00
 {% include toc title="Extension methods" %}
 
 ## What are Extension methods?
-The most completed description of what are extension methods can be found in following quotes:
+The most complete description of what are extension methods can be found in following quotes:
 
 > Extension methods enable you to "add" methods to existing types without creating a new derived type, recompiling, or otherwise modifying the original type. Extension methods are a special kind of static method, but they are called as if they were instance methods on the extended type. For client code written in C# and Visual Basic, there is no apparent difference between calling an extension method and the methods that are actually defined in a type.
 <cite><a href="https://msdn.microsoft.com/en-us/library/bb311042.aspx">MSDN Documentation</a></cite>
