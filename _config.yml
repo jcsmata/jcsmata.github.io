@@ -20,11 +20,7 @@ teaser                   : "/assets/images/default.png" # path of fallback tease
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 comments:
-<<<<<<< HEAD
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
-=======
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
->>>>>>> mmistakes/master
   disqus:
     shortname            : jcsmatagithubio # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -101,12 +97,7 @@ author:
   flickr           :
   facebook         : joao.mata
   foursquare       :
-<<<<<<< HEAD
   github           : jcsmata 
-=======
-  github           :
-  gitlab           :
->>>>>>> mmistakes/master
   google_plus      :
   keybase          :
   instagram        :
@@ -114,17 +105,10 @@ author:
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
-<<<<<<< HEAD
   stackoverflow    : 243976/jcsmata
   steam            :
   tumblr           : 
   twitter          : joaomata
-=======
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
-  tumblr           :
-  twitter          :
->>>>>>> mmistakes/master
   vine             :
   weibo            :
   xing             :
@@ -268,7 +252,6 @@ defaults:
       comments: true
       share: true
       related: true
-<<<<<<< HEAD
   # Added JMT
   # _pages
   - scope:
@@ -277,5 +260,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-=======
->>>>>>> mmistakes/master

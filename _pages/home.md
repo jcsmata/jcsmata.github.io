@@ -15,11 +15,13 @@ feature_row:
     title: "Extension Methods in .NET"
     excerpt: "A post about extension methods and how to create them."
     btn_label: "Learn more"
+    btn_class: "btn--primary"
   - image_path: /assets/images/default.png
     url: /blog/mysql-azure-ubuntu
     title: "Create Azure Ubuntu VM, install MySQL and remote access to it."
     excerpt: "Tutorial on how to create a Ubuntu VM on Azure, install MySQL and accessing it from your local computer."
     btn_label: "Learn more"
+    btn_class: "btn--primary"
 ---
 
 <script async defer src="https://buttons.github.io/buttons.js"></script>
